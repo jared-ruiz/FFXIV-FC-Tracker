@@ -2,3 +2,27 @@
   margin: 0;
   padding: 0;
 }
+
+.nav-comp-styling {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 6vh;
+  background-color: rgb(36, 16, 16);
+}
+
+.nav-comp-styling ul {
+  display: flex;
+  list-style-type: none;
+  padding: 12px;
+}
+
+.nav-comp-styling ul a {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  padding: 20px;
+  text-decoration: none;
+}
+
+
